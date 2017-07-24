@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DHCircleView_Example' do
+  pod 'DHCircleView', :path => '../'
+
+  target 'DHCircleView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
