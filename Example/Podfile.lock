@@ -1,0 +1,16 @@
+PODS:
+  - DHCircleView (0.1.0)
+
+DEPENDENCIES:
+  - DHCircleView (from `../`)
+
+EXTERNAL SOURCES:
+  DHCircleView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DHCircleView: fec86d31af19b18aead7f490da882d7f7c0cbfec
+
+PODFILE CHECKSUM: 34702597f423da82d2b773e7dc1c8d17988facd4
+
+COCOAPODS: 1.2.1
